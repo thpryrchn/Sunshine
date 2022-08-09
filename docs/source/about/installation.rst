@@ -125,7 +125,7 @@ Portfile
 
       Add this line, replacing your username, below the line that starts with ``rsync``.
 
-         file://Users/<username>/ports
+         file:///Users/<username>/ports
 
       ``Ctrl+x``, then ``Y`` to exit and save changes.
 
